@@ -1,2 +1,4 @@
 # uasilahelperbot
-The source code of the Uasila Helper Bot
+Uasila Helper Bot is a Telegram-bot that could help users with filling out some forms, documents and etc by filling out these documents or forms according to templates.
+Language: Python
+API: Telebot
